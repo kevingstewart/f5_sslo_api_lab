@@ -4,7 +4,7 @@ This simple respository contains a dockerfile to create a container environment 
 
 To use:
 
-- Create an empty local folder and copy the dockerfile and ansible-init.sh files there.
+- Create an empty local folder and copy the **dockerfile** and **ansible-init.sh** files there.
 
 - Build the docker image:
   ```
