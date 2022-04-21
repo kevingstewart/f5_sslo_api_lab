@@ -22,3 +22,5 @@ To use:
   cd /code
   ansible-init
   ```
+  
+  The ansible-init script will create the necessary file and folder structure in the current directory, and download the F5 Ansible collection.
